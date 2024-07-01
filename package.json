@@ -1,0 +1,15 @@
+{
+  "name": "homework-05-omdaprog",
+  "version": "1.0.0",
+  "description": "Implement the code for `Meditation` class to be used as follows: ```typescript const morning_meditation = new Meditation(5); morning_meditation.start(); console.log(`Start meditation`);",
+  "main": "index.js",
+  "scripts":{
+    "start": "tsx watch Ex3.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "tsx": "^4.16.0"
+  }
+}
